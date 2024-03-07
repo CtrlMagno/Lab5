@@ -1,0 +1,72 @@
+*{
+padding: 0;
+margin: 0;
+
+}
+
+.more{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(23, 23, 23);
+    
+    }
+
+.tittles{
+
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 40px;
+
+}
+
+.description{
+
+display: flex;
+align-items: center;
+justify-content: center;
+margin:90px;
+padding-left: 400px;
+padding-right: 400px;
+line-height: 30px;
+
+}
+
+.button1 {
+    display: flex;
+    padding: 10px 20px;
+    background-color: rgb(200, 200, 200);
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    align-items: center;
+    margin: 0;
+  }
+
+  .my-button:hover {
+    background-color: #45a049;
+  }
+  .my-button:active {
+    background-color: #3e8e41;
+  }
+
+  .car{
+
+    margin-left: 10px;
+
+  }
+
+  .buttons{
+
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+
+  }
+
+.text{
+
+    margin: 0;
+}
